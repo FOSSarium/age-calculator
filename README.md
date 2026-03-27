@@ -13,8 +13,7 @@ Calculate your exact age in years, months, and days with precision.
 ## 🚀 Usage
 
 1. Select your birth date
-2. (Optional) Select the target date (defaults to today)
-3. View your exact age instantly!
+2. View your exact age instantly!
 
 ## 🛠️ Built With
 
