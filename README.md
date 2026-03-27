@@ -32,4 +32,6 @@ Licensed under FOSSarium License. See `LICENSE` for more details.
 
 ---
 
-<center>Made with ❤️ by FOSSarium</center>
+<p align="center">
+  Made with ❤️ by FOSSarium
+</p>
