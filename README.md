@@ -32,4 +32,4 @@ Licensed under FOSSarium License. See `LICENSE` for more details.
 
 ---
 
-Made with ❤️ by FOSSarium
+<center>Made with ❤️ by FOSSarium</center>
